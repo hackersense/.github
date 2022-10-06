@@ -3,7 +3,7 @@ Welcome to HackerSense Team official github
 
 We make game cheat.
 
-Supported Minecraft, Counter-Strike Global Offensive and Apex Legends.
+<!--Supported Minecraft, Counter-Strike Global Offensive and Apex Legends.-->
 
 <!--
 **Here are some ideas to get you started:**
@@ -13,4 +13,4 @@ Supported Minecraft, Counter-Strike Global Offensive and Apex Legends.
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
