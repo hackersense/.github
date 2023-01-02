@@ -1,11 +1,6 @@
 ## Hi there 👋
 Welcome to HackerSense Team official github
 
-We make game cheat.
-
-<!--Supported Minecraft, Counter-Strike Global Offensive and Apex Legends.-->
-
-<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
